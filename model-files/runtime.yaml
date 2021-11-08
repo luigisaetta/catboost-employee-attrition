@@ -13,7 +13,7 @@ MODEL_PROVENANCE:
   TRAINING_CODE:
     ARTIFACT_DIRECTORY: ./model-files
     GIT_BRANCH: main
-    GIT_COMMIT: bdb89651bdb7c9e9df9252377622518a804d80fc
+    GIT_COMMIT: a65696e68cbb90cc30b1379362ad6fe957bdba21
     GIT_REMOTE: https://github.com/luigisaetta/catboost-employee-attrition.git
   TRAINING_COMPARTMENT_OCID: ocid1.compartment.oc1..aaaaaaaaoxmcrbf3x3kozxkehlontyvtb4vif64vedvkneqv3b6rozumpxzq
   TRAINING_CONDA_ENV:
