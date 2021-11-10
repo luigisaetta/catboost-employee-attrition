@@ -13,5 +13,5 @@ Data are fictional data, in some way related to this dataset from Kaggle: https:
 * handling of train dataset **imbalance** with **class-weights**
 * hyper-parameter optimization with **Optuna** 
 * Integration with **GitHub**
-* Model saving to **Models' Catalog**
+* Model saving to DataScience **Models' Catalog**
 * access to Object Storage using Resource Principal and **ocifs**
