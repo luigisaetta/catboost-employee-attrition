@@ -16,5 +16,6 @@ Data are fictional data, in some way related to this dataset from Kaggle: https:
 * Integration with **GitHub**
 * Model saving to DataScience **Models' Catalog**
 * Model "one click" deployment
-* integration with MLFlow
+* integration with **MLFlow** for **Experiment tracking**
 * access to Object Storage using Resource Principal and **ocifs**
+* Mitigazione overfitting mediante **regolarizzazione L2** (l2_leaf_reg da Optuna)
