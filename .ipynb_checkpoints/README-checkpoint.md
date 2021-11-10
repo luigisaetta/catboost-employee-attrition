@@ -6,6 +6,8 @@ This repository contains all the code developed during the preparation of the De
 ## Data used
 For the demo I have used a dataset provided with OCI Data Science (orcl_attrition.csv)
 
+You can get a copy from here: https://objectstorage.us-ashburn-1.oraclecloud.com/n/bigdatadatasciencelarge/b/hosted-ds-datasets/o/synthetic%2Forcl_attrition.csv
+
 Data are fictional data, in some way related to this dataset from Kaggle: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Features
