@@ -20,4 +20,15 @@ Data are fictional data, in some way related to this dataset from Kaggle: https:
 * Model "one click" deployment
 * integration with **MLFlow** for **Experiment tracking**
 * access to Object Storage using Resource Principal and **ocifs**
-* Mitigazione overfitting mediante **regolarizzazione L2** (l2_leaf_reg da Optuna)
+* Overfitting mitigation through **L2 regolarization** (l2_leaf_reg da Optuna)
+
+## Comparison
+I have also tested, on the same dataset, LightGBM.
+
+See lightgbm2 NB.
+
+It seems from these tests that:
+* Catboost is faster
+* it is easier to handle data imbalance
+
+
