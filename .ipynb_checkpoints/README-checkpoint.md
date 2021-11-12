@@ -25,7 +25,7 @@ Data are fictional data, in some way related to this dataset from Kaggle: https:
 ## Comparison
 I have also tested, on the same dataset, **LightGBM**.
 
-See lightgbm2 NB.
+See lightgbm2 NoteBook.
 
 It seems from these tests that:
 * Catboost is faster
