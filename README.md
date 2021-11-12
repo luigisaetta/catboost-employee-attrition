@@ -23,7 +23,7 @@ Data are fictional data, in some way related to this dataset from Kaggle: https:
 * Overfitting mitigation through **L2 regolarization** (l2_leaf_reg da Optuna)
 
 ## Comparison
-I have also tested, on the same dataset, LightGBM.
+I have also tested, on the same dataset, **LightGBM**.
 
 See lightgbm2 NB.
 
