@@ -21,6 +21,8 @@ Data are fictional data, in some way related to this dataset from Kaggle: https:
 * integration with **MLFlow** for **Experiment tracking**
 * access to Object Storage using Resource Principal and **ocifs**
 * Overfitting mitigation through **L2 regolarization** (l2_leaf_reg da Optuna)
+* loading data from Oracle **ADWH**
+* storing scoring in **ADWH**
 
 ## Comparison
 I have also tested, on the same dataset, **LightGBM**.
