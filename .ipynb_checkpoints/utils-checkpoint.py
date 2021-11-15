@@ -6,7 +6,7 @@ import pandas as pd
 #
 def read_from_object_storage(prefix, file_name):
     # get access to OSS as an fs
-    # config={} assume resource_principal auth
+    # config={} assume RESOURCE PRINCIPAL auth
     fs = ocifs.OCIFileSystem(config={})
     
     FILE_PATH = prefix + file_name
